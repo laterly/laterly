@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning ...
 <!--
 - 🌱 I’m currently learning javascript vue react and node
 - 👯 I’m looking to collaborate on ...
