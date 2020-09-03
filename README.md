@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
-- 🌱 I’m currently learning javascript vue react and node
 <!--
+- 🌱 I’m currently learning javascript vue react and node
 - 👯 I’m looking to collaborate on ...
 - 🔭 I’m currently working on buluji
 - 🤔 I’m looking for help with ...
